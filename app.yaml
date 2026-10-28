@@ -1,0 +1,8 @@
+id: bool
+name: bool
+version: 7.0.1
+author: lzr
+icon: app.png
+desc: d
+files:
+  - main.py
